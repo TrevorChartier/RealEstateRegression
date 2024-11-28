@@ -44,7 +44,9 @@ zip,borough
 10048,Manhattan
 10055,Manhattan
 10060,Manhattan
+1006, Manhattan
 10069,Manhattan
+10075,Manhattan
 10090,Manhattan
 10095,Manhattan
 10098,Manhattan
@@ -134,6 +136,7 @@ zip,borough
 10474,Bronx
 10475,Bronx
 11004,Queens
+11005,Queens
 11101,Queens
 11102,Queens
 11103,Queens
